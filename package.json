@@ -1,0 +1,20 @@
+{
+  "name": "analytics-testing",
+  "version": "1.0.0",
+  "description": "Testing google analytics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jshen21/analytics-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jshen21/analytics-testing/issues"
+  },
+  "homepage": "https://github.com/jshen21/analytics-testing#readme"
+}
